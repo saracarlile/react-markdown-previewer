@@ -16,5 +16,5 @@ Hint: You don't need to interpret Markdown yourself - you can import the Marked 
 [View live demo of React Markdown Previewer](https://saracarlile.github.io/react-markdown-previewer/)
 
 ## Technologies
-React.JS
+React.JS  
 Markdown NPM library [Markdown](https://www.npmjs.com/package/markdown)
