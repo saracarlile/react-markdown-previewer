@@ -1,0 +1,22 @@
+{
+  "name": "markdown-react",
+  "version": "0.1.0",
+  "private": true,
+  "honepage": "https://saracarlile.github.io/react-markdown-previewer/",
+  "dependencies": {
+    "gh-pages": "^1.1.0",
+    "markdown": "^0.5.0",
+    "react": "^16.2.0",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
